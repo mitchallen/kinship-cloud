@@ -1,0 +1,31 @@
+{
+  "name": "kinship-cloud",
+  "version": "1.0.0",
+  "description": "gedocom importer",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predocker:up": "docker-compose build",
+    "docker:up": "docker-compose up",
+    "docker:start": "docker-compose start",
+    "docker:stop": "docker-compose stop"
+  },
+  "keywords": [],
+  "author": "Mitch Allen <npm@mitchallen.com> (http://mitchallen.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@mitchallen/uptime": "0.0.8",
+    "body-parser": "^1.18.3",
+    "chance": "^1.0.18",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "supertest": "^3.3.0"
+  }
+}

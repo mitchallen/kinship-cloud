@@ -1,0 +1,150 @@
+0 @I6000000000952775792@ INDI
+ 1 NAME Mitchell Christopher /Allen/
+  2 GIVN Mitchell Christopher
+  2 SURN Allen
+ 1 SEX M
+ 1 RESI
+  2 ADDR
+   3 STAE Massachusetts
+   3 CTRY United States
+ 1 FAMC @F6000000000952717592@
+ 1 RFN geni:6000000000952775792
+0 @I6000000000952717586@ INDI
+ 1 NAME Virginia Ordre /Waterman/
+  2 GIVN Virginia Ordre
+  2 SURN Waterman
+  2 _MAR Allen
+ 1 SEX F
+ 1 BIRT
+  2 DATE 28 FEB 1928
+ 1 FAMC @F6000000000952997695@
+ 1 FAMS @F6000000000952717592@
+ 1 RFN geni:6000000000952717586
+ 1 CHAN
+  2 DATE 12 NOV 2014
+   3 TIME 14:58:13
+0 @I6000000000952736755@ INDI
+ 1 NAME Arthur Edward /Allen/
+  2 GIVN Arthur Edward
+  2 SURN Allen
+ 1 SEX M
+ 1 BIRT
+  2 DATE 4 AUG 1928
+ 1 DEAT
+  2 DATE MAY 1988
+ 1 FAMC @F6000000000975082846@
+ 1 FAMS @F6000000000952717592@
+ 1 RFN geni:6000000000952736755
+ 1 CHAN
+  2 DATE 12 NOV 2014
+   3 TIME 14:58:14
+0 @I6000000000953100109@ INDI
+ 1 NAME Edith Marie /Lentz/
+  2 GIVN Edith Marie
+  2 SURN Lentz
+  2 _MAR Waterman
+ 1 SEX F
+ 1 BIRT
+  2 DATE 27 AUG 1904
+  2 ADDR
+   3 CITY Boston
+   3 STAE MA
+   3 CTRY USA
+ 1 DEAT
+  2 DATE 18 SEP 1991
+ 1 FAMC @F6000000000953095340@
+ 1 FAMS @F6000000000952997695@
+ 1 RFN geni:6000000000953100109
+ 1 CHAN
+  2 DATE 12 NOV 2014
+   3 TIME 14:58:30
+0 @I6000000000953121035@ INDI
+ 1 NAME Herbert Frederick /Waterman/
+  2 GIVN Herbert Frederick
+  2 SURN Waterman
+ 1 SEX M
+ 1 BIRT
+  2 DATE 20 MAR 1903
+  2 ADDR
+   3 CITY South Hadley Falls
+   3 STAE Massachusetts
+   3 CTRY United States
+ 1 DEAT
+  2 DATE 5 AUG 1988
+  2 ADDR
+   3 STAE Massachusetts
+   3 CTRY United States
+ 1 FAMC @F6000000000953171445@
+ 1 FAMS @F6000000000952997695@
+ 1 RFN geni:6000000000953121035
+ 1 OBJE
+  2 FORM text/html
+  2 FILE https://www.geni.com/photo/view?photo_id=6000000001017201179
+ 1 OBJE
+  2 FORM
+  2 FILE https://s3.amazonaws.com/photos.geni.com/p4/3857/3225/5344483628f9421b/ciq37kir_large.jpg
+ 1 OBJE
+  2 FORM text/html
+  2 FILE https://www.geni.com/photo/view?photo_id=6000000001017201176
+ 1 OBJE
+  2 FORM
+  2 FILE https://s3.amazonaws.com/photos.geni.com/p4/3857/3225/5344483628f94218/sey42bub_large.jpg
+ 1 OBJE
+  2 FORM text/html
+  2 FILE https://www.geni.com/photo/view?photo_id=6000000001017201177
+ 1 OBJE
+  2 FORM
+  2 FILE https://s3.amazonaws.com/photos.geni.com/p4/3857/3225/5344483628f94219/meg82qac_large.jpg
+ 1 OBJE
+  2 FORM text/html
+  2 FILE https://www.geni.com/photo/view?photo_id=6000000001017201178
+ 1 OBJE
+  2 FORM
+  2 FILE https://s3.amazonaws.com/photos.geni.com/p4/3857/3225/5344483628f9421a/zav53muf_large.jpg
+ 1 CHAN
+  2 DATE 12 NOV 2014
+   3 TIME 14:58:30
+0 @I6000000000975082838@ INDI
+ 1 NAME Joseph Francis /Allen/
+  2 GIVN Joseph Francis
+  2 SURN Allen
+ 1 SEX M
+ 1 BIRT
+  2 DATE 21 JUN 1899
+  2 ADDR
+   3 CITY Bridgewater / Brockton
+   3 STAE Massachusetts
+   3 CTRY United States
+ 1 DEAT
+  2 DATE AUG 1979
+  2 ADDR
+   3 CITY St Petersburg
+   3 STAE FL
+   3 CTRY USA
+ 1 FAMC @F6000000012197884683@
+ 1 FAMS @F6000000000975082846@
+ 1 RFN geni:6000000000975082838
+ 1 CHAN
+  2 DATE 12 NOV 2014
+   3 TIME 18:25:58
+0 @I6000000000975250537@ INDI
+ 1 NAME Bernice Barrett /Hill/
+  2 GIVN Bernice Barrett
+  2 SURN Hill
+  2 _MAR Allen
+ 1 SEX F
+ 1 BIRT
+  2 DATE 1894
+  2 ADDR
+   3 CITY Brockton
+   3 STAE Massachusetts
+   3 CTRY United States
+ 1 DEAT
+  2 DATE 1985
+ 1 FAMC @F6000000009696729643@
+ 1 FAMS @F6000000000975082846@
+ 1 RFN geni:6000000000975250537
+ 1 SUBM @S6000000000014431821@
+ 1 CHAN
+  2 DATE 12 NOV 2014
+   3 TIME 18:26:00
