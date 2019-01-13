@@ -9,7 +9,9 @@
     "predocker:up": "docker-compose build",
     "docker:up": "docker-compose up",
     "docker:start": "docker-compose start",
-    "docker:stop": "docker-compose stop"
+    "docker:stop": "docker-compose stop",
+    "web:browse": "open http://localhost:3030",
+    "minio:browse": "open http://127.0.0.1:9000"
   },
   "keywords": [],
   "author": "Mitch Allen <npm@mitchallen.com> (http://mitchallen.com)",
